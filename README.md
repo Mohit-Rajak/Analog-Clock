@@ -47,8 +47,7 @@ The positions of the hour, minute, and second hands are updated based on the cur
 setInterval() is used to update the time every second, making the clock interactive.
 
 Demo:
-You can see a live demo of this Analog Clock in action by visiting the following link (analog-clock-rho-sooty.vercel.app
-).
+You can see a live demo of this Analog Clock in action by visiting the following link https://analog-clock-rho-sooty.vercel.app
 
 
 ## Customization:
